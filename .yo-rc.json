@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.terabiz.workflow"
+    },
+    "jhipsterVersion": "6.6.0",
+    "applicationType": "microservice",
+    "baseName": "workflow",
+    "packageName": "com.terabiz.workflow",
+    "packageFolder": "com/terabiz/workflow",
+    "serverPort": "8095",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGI3M2IwYjliZjU4MGRkNDNjZDZjMTNhZWEyMWUxZmIyMzI1ZWE0ZjNmODQxMjc1ZmM5ODMxMjg3YjhlNTA3MjQ5ZTY2MjBiYTJjYWEyMjVkOWM5MDJjZTUwN2IzYmI5ZmUxOTMwMjA3ZjA1YWQzNzNiMjQyZWY0NzNlM2Y0NDg=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1580725283050,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
